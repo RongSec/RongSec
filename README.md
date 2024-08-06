@@ -2,7 +2,7 @@
 
   <div align="center">
     <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);Lorin 洛林&center=true&size=27" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println(%22Hello%2C%20World%22);人间体佐菲&center=true&size=27" alt="Typing SVG" />
     </a>
   </div>
 
@@ -24,14 +24,14 @@
 
 </div>
 
-## Hi! Nice to meet you!
+## 很高心认识你
 
 <!-- 个人简介 -->
 
-- 👋 Hi, I’m @Lorin-github
-- 👀 I ’m interest in Java, server development, database, computer network, operating system, AI, etc.
-- 🌱 I’m currently learning database, AI,Chrome plug -in development.
-- 💞️ I’m looking to collaborate on article synchronization assistant.
-- 📫 How to reach me? Email: gmqiujun@gmail.com
+- 👋 很高心认识你 允许我先介绍我自己
+- 👀 我是人间体佐菲，中国男性，一个持证安全人员，认为不安全的事情最刺激
+- 🌱 黄金时代是我的高中三年，我至今都想回到那个时候
+- 💞️ 我的梦想是拥有大冰一样的title list,我想当烧烤店主（主营烤面筋），滴滴司机，钢琴家，小提琴家，吟游诗人，慈善人士，支教教师（均未实现）
+- 📫 开玩笑的（不是），我真正的梦想是在互联网留下一些微小的足迹，等我老了还能回忆一下我的白银时代
 
 ![Saksham's github stats](https://github-readme-stats.vercel.app/api?username=RongSec&show_icons=true)
