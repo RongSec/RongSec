@@ -41,7 +41,7 @@
 
 #### 最后一点介绍：
 
-- ~~我这一生如履薄冰~~，送过外卖，入过行伍，受过处分，退过学，上过两段大学，小时候偷过同学钱，长大之后被电信诈骗，上学的时候把女同学腿搞断过。但是我仍是我，所以LIFE IS TANGO,IF U MISTAKE ,JUST TANGO ON!
+- ~~我这一生如履薄冰~~，
 
 
 ![RongSec's github stats](https://github-readme-stats.vercel.app/api?username=RongSec&show_icons=true)
